@@ -34,3 +34,13 @@ Players can activate these tools via command-line inputs to make the game more i
 <p align="center">
   <img src="https://github.com/Hahvinaash-Vijaykumarr/Who-Wants-To-Be-A-Scientist/blob/a161f543b99c691f56877840791b7f6e84e1ea47/Images/Start%20of%20the%20Game.png" width="600" />
 </p>
+
+<h2 align="center">Questions</h2>
+<p align="center">
+  <img src="https://github.com/Hahvinaash-Vijaykumarr/Who-Wants-To-Be-A-Scientist/blob/4480a6ce41bb2446b3264b8ca29d395b8357328b/Images/Questions.png" width="600" />
+</p>
+
+<h2 align="center">End of the Game</h2>
+<p align="center">
+  <img src="https://github.com/Hahvinaash-Vijaykumarr/Who-Wants-To-Be-A-Scientist/blob/4480a6ce41bb2446b3264b8ca29d395b8357328b/Images/Questions.png" width="600" />
+</p>
