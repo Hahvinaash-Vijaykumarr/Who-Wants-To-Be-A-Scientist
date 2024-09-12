@@ -32,5 +32,5 @@ Players can activate these tools via command-line inputs to make the game more i
 
 <h2 align="center">Start of the Game</h2>
 <p align="center">
-  <img src="https://github.com/Hahvinaash-Vijaykumarr/Who-Wants-To-Be-A-Scientist/Images/Start Of The Game.png" width="300" />
+  <img src="https://github.com/Hahvinaash-Vijaykumarr/Who-Wants-To-Be-A-Scientist/Images/Start of the Game.png" width="300" />
 </p>
