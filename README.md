@@ -42,5 +42,5 @@ Players can activate these tools via command-line inputs to make the game more i
 
 <h2 align="center">End of the Game</h2>
 <p align="center">
-  <img src="https://github.com/Hahvinaash-Vijaykumarr/Who-Wants-To-Be-A-Scientist/blob/4480a6ce41bb2446b3264b8ca29d395b8357328b/Images/Questions.png" width="600" />
+  <img src="https://github.com/Hahvinaash-Vijaykumarr/Who-Wants-To-Be-A-Scientist/blob/b7f79d0ab1215664faf5c6a2ac063944da00508d/Images/End%20of%20the%20Game.png" width="600" />
 </p>
