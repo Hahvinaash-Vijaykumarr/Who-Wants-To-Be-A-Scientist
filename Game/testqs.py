@@ -110,17 +110,17 @@ question_bank = [
     [question1 , answers1 , correct1, point1, audience1, teacher_hint1],
     [question2, answers2, correct2, point2, audience2, teacher_hint2],
     [question3, answers3, correct3, point3, audience3, teacher_hint3],
-    [question4, answers4, correct4, point4, audience4, teacher_hint4]
-    [question5, answers5, correct5, point5, audience5, teacher_hint5]
-    [question6, answers6, correct6, point6, audience6, teacher_hint6]
-    [question7, answers7, correct7, point7, audience7, teacher_hint7]
-    [question8, answers8, correct8, point8, audience8, teacher_hint8]
-    [question9, answers9, correct9, point9, audience9, teacher_hint9]
-    [question10, answers10, correct10, point10, audience10, teacher_hint10]
-    [question11, answers11, correct11, point11, audience11, teacher_hint11]
-    [question12, answers12, correct12, point12, audience12, teacher_hint12]
-    [question13, answers13, correct13, point13, audience11, teacher_hint11]
-    [question14, answers14, correct14, point14, audience14, teacher_hint14]
+    [question4, answers4, correct4, point4, audience4, teacher_hint4],
+    [question5, answers5, correct5, point5, audience5, teacher_hint5],
+    [question6, answers6, correct6, point6, audience6, teacher_hint6],
+    [question7, answers7, correct7, point7, audience7, teacher_hint7],
+    [question8, answers8, correct8, point8, audience8, teacher_hint8],
+    [question9, answers9, correct9, point9, audience9, teacher_hint9],
+    [question10, answers10, correct10, point10, audience10, teacher_hint10],
+    [question11, answers11, correct11, point11, audience11, teacher_hint11],
+    [question12, answers12, correct12, point12, audience12, teacher_hint12],
+    [question13, answers13, correct13, point13, audience11, teacher_hint11],
+    [question14, answers14, correct14, point14, audience14, teacher_hint14],
     [question15, answers15, correct15, point15, audience15, teacher_hint15]
 ]
 random.shuffle(question_bank) # Randomizing the question bank
